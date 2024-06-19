@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SIOSocket")(type "KiCad")(uri "${KIPRJMOD}/Atari.pretty/SIOSocket.kicad_sym")(options "")(descr ""))
+)
